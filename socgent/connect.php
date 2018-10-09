@@ -1,3 +1,3 @@
 <?php
-    $con=mysqli_connect('MySQL:3306', 'root', '', 'society');
+    $con=mysqli_connect('localhost', 'root', '');
 ?>
