@@ -1,0 +1,34 @@
+.error{
+    width: 92%;
+    margin: 0px auto;
+    padding: 10px;
+    border: 1px solid red;
+    color: #a94442;
+    background: #f2dede;
+    text-align: right;
+}
+
+.socman{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.querypage{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.register{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.adminlogin{
+    text-align: center;
+    font-family: serif;
+}
+
+.aboutUs{
+    text-align: center;
+    font-family: sans-serif;
+}
