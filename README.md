@@ -1,4 +1,4 @@
-SOCGENT
+#SOCGENT
 
 Socgent is a Society Management Website, where Society members can basically post Problems prevailing in Society and Committee members can Respond and try to solve them.
 
